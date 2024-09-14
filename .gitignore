@@ -1,11 +1,8 @@
 # Ignore sensitive or configuration files
-/home/aronas/credentials.txt
-
-# Ignore local configuration files
-local-config/
-
-# Ignore local configuration files, again
 local-config/credentials.txt
+
+# Ignore the entire local-config directory
+local-config/
 
 # Ignore backup files
 *.bak
@@ -13,5 +10,6 @@ local-config/credentials.txt
 # Ignore temporary files
 *.tmp
 
-# Ensure that essential scripts and files are tracked
+# Ensure that essential scripts are tracked
 !*.sh
+
