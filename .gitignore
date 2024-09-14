@@ -2,7 +2,10 @@
 /home/aronas/credentials.txt
 
 # Ignore local configuration files
-local-config
+local-config/
+
+# Ignore local configuration files, again
+local-config/credentials.txt
 
 # Ignore backup files
 *.bak
