@@ -96,7 +96,7 @@ FlexOS is a highly lightweight, text-based Linux distribution designed for simpl
    - **Note:** If your hardware cannot handle the space links2 will consume, your hardware may not meet the requirements for FlexOS.
 
 3. **Error: `links2 can't display google.com`**
-   - **Solution:** Go to the leave application and exit FlexOS. In the root shell prompt, select 'enable networking', choose 'yes' in the warning, then return to the root shell and follow the installation instructions.
+   - **Solution:** Go to the leave application and exit FlexOS. In the root shell prompt exit as well, select 'enable networking', choose 'yes' in the warning, then return to the root shell and follow the installation instructions.
 
 ### **Frequently Asked Questions (FAQ)**
 
