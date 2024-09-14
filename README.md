@@ -115,7 +115,7 @@ FlexOS is a highly lightweight, text-based Linux distribution designed for simpl
 ## **5. What FlexOS Focuses On**
 
 1. **Extremely Lightweight:**
-   - FlexOS's files are nearly 1.6 KB. You will have insane amounts of storage, making FlexOS incredibly efficient and suitable for even the most resource-constrained environments.
+   - FlexOS's files are 1.5 KB. You will have insane amounts of storage, making FlexOS incredibly efficient and suitable for even the most resource-constrained environments.
 
 2. **Encourages Active Thinking:**
    - As a text-based OS, FlexOS promotes more deliberate thinking about the tasks you are performing. Without graphical distractions, you engage more deeply with the textual interface.
