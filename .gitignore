@@ -1,8 +1,5 @@
 # Ignore sensitive or configuration files
-local-config/credentials.txt
-
-# Ignore the entire local-config directory
-local-config/
+local-config
 
 # Ignore backup files
 *.bak
@@ -10,6 +7,7 @@ local-config/
 # Ignore temporary files
 *.tmp
 
-# Ensure that essential scripts are tracked
+# Ensure that essential shell scripts are tracked
 !*.sh
+
 
